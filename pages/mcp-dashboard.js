@@ -1,0 +1,1 @@
+export default function MCPDashboard() { return <div>MCP Dashboard Works!</div> }
